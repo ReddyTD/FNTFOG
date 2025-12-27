@@ -88,7 +88,7 @@
 			"Y" = 0,
 			"Z" = 0
 		},
-		"Upgrades": {
+		"Upgrades": [
 		{
 			"Price" = 0,
 			"Range" = 20,
