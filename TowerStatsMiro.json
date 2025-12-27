@@ -76,6 +76,201 @@
 		}
 		]
 	},
+	"Ignited Foxy": {
+		"Type": "Dual",
+		"Image": "rbxassetid://16620053009",
+		"Rarity": "Epic",
+		"PlacePrice": 1500,
+		"Max": 3,
+		"Offset": 0.3,
+		"hitboxOffset": {
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"Upgrades": [
+		{
+			"Price": 0,
+			"Range": 15,
+			"Damage": 1200,
+			"Cooldown": 1.5
+		},
+		{
+			"Price": 1000,
+			"Range": 16,
+			"Damage": 1500,
+			"Cooldown": 1
+		},
+		{
+			"Price": 2000,
+			"Range": 20,
+			"Damage": 1600,
+			"Cooldown": 1
+		},
+		{
+			"Price": 1987,
+			"Range": 24,
+			"Damage": 2000,
+			"Cooldown": 1
+		}
+		]
+	},
+	"Ignited Bonnie": {
+		"Type": "Continuous",
+		"Image": "rbxassetid://16620053009",
+		"Rarity": "Nightmare",
+		"PlacePrice": 15000,
+		"Max": 3,
+		"Offset": 0.3,
+		"hitboxOffset": {
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"Upgrades": [
+		{
+			"Price": 0,
+			"Range": 20,
+			"Damage": 1000,
+			"Cooldown": 0.5
+		},
+		{
+			"Price": 12000,
+			"Range": 25,
+			"Damage": 1000,
+			"Cooldown": 0.35
+		},
+		{
+			"Price": 15000,
+			"Range": 30,
+			"Damage": 1000,
+			"Cooldown": 0.25
+		},
+		{
+			"Price": 20000,
+			"Range": 30,
+			"Damage": 1200,
+			"Cooldown": 0.05
+		}
+		]
+	},
+	"Ignited Toy Chica": {
+		"Type": "Splash",
+		"Image": "rbxassetid://16620053009",
+		"Rarity": "Epic",
+		"PlacePrice": 1500,
+		"Max": 4,
+		"Offset": 0.3,
+		"hitboxOffset": {
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"Upgrades": [
+		{
+			"Price": 0,
+			"Range": 20,
+			"Damage": 1000,
+			"Cooldown": 2
+		},
+		{
+			"Price": 1000,
+			"Range": 20,
+			"Damage": 1500,
+			"Cooldown": 1.5
+		},
+		{
+			"Price": 2000,
+			"Range": 20,
+			"Damage": 2000,
+			"Cooldown": 1
+		},
+		{
+			"Price": 1250,
+			"Range": 25,
+			"Damage": 2000,
+			"Cooldown": 1
+		}
+		]
+	},
+	"Mismatched Toys": {
+		"Type": "Full AOE",
+		"Image": "rbxassetid://16620053009",
+		"Rarity": "Uncommon",
+		"PlacePrice": 1,
+		"Max": 20,
+		"Offset": 0.3,
+		"hitboxOffset": {
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"Upgrades": [
+		{
+			"Price": 0,
+			"Range": 200,
+			"Damage": 100000,
+			"Cooldown": 0.00001
+		},
+		{
+			"Price": 1,
+			"Range": 30000,
+			"Damage": 15000000000000,
+			"Cooldown": 0.0000001
+		},
+		{
+			"Price": 2,
+			"Range": 300000000000,
+			"Damage": 50000000000000000,
+			"Cooldown": 0.00000000000001
+		},
+		{
+			"Price": 3,
+			"Range": 350000000000,
+			"Damage": 5000000000000000000000000000,
+			"Cooldown": 0.0000000000000000000000000000000000001
+		}
+		]
+	},
+	"Ignited Shadow Bonnie": {
+		"Type": "Full AOE",
+		"Image": "rbxassetid://16620053009",
+		"Rarity": "Apex",
+		"PlacePrice": 15000,
+		"Max": 1,
+		"Offset": 0.3,
+		"hitboxOffset": {
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"Upgrades": [
+		{
+			"Price": 0,
+			"Range": 20,
+			"Damage": 5000,
+			"Cooldown": 0.5
+		},
+		{
+			"Price": 10000,
+			"Range": 30,
+			"Damage": 5000,
+			"Cooldown": 0.25
+		},
+		{
+			"Price": 20000,
+			"Range": 30,
+			"Damage": 5000,
+			"Cooldown": 0.2
+		},
+		{
+			"Price": 25000,
+			"Range": 35,
+			"Damage": 5000,
+			"Cooldown": 0.05
+		}
+		]
+	},
 	"Ignited Springtrap": {
 		"Type": "Pierce + Cone",
 		"Image": "rbxassetid://16620053009",
