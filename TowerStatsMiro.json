@@ -76,6 +76,45 @@
 		}
 		]
 	},
+	"Ignited Springtrap": {
+		"Type": "Pierce + Cone",
+		"Image": "put id here",
+		"Rarity": "Nightmare",
+		"PlacePrice": 23456,
+		"Offset": 0,
+		"Max": 2,
+		"hitboxOffset": { 
+			"X" = 0,
+			"Y" = 0,
+			"Z" = 0
+		},
+		"Upgrades": {
+		{
+			"Price" = 0,
+			"Range" = 20,
+			"Damage" = 10000,
+			"Cooldown" = 2
+		},
+		{
+			"Price" = 10000,
+			"Range" = 30,
+			"Damage" = 15000,
+			"Cooldown" = 1.5
+		},
+		{
+			"Price" = 20000,
+			"Range" = 30,
+			"Damage" = 50000,
+			"Cooldown" = 2
+		},
+		{
+			"Price" = 50000,
+			"Range" = 40,
+			"Damage" = 50000,
+			"Cooldown" = 1.5
+		}
+ 		]
+	},
 	"Puppet in-the-box": {
 		"Type": "Pierce",
 		"Image": "rbxassetid://135110651981096",
