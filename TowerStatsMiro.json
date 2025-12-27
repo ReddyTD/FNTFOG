@@ -78,12 +78,12 @@
 	},
 	"Ignited Springtrap": {
 		"Type": "Pierce + Cone",
-		"Image": "put id here",
-		"Rarity": "Nightmare",
+		"Image": "rbxassetid://16620053009",
+		"Rarity": "Apex",
 		"PlacePrice": 23456,
-		"Offset": 0,
 		"Max": 2,
-		"hitboxOffset": { 
+		"Offset": 0.3,
+		"hitboxOffset": {
 			"X": 0,
 			"Y": 0,
 			"Z": 0
@@ -108,12 +108,12 @@
 			"Cooldown": 2
 		},
 		{
-			"Price": 50000,
-			"Range": 40,
+			"Price": 1250,
+			"Range": 35,
 			"Damage": 50000,
 			"Cooldown": 1.5
 		}
- 		]
+		]
 	},
 	"Puppet in-the-box": {
 		"Type": "Pierce",
