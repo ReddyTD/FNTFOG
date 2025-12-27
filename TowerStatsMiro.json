@@ -352,7 +352,7 @@
 	"Ignited Freddy": {
 		"Type": "Cone AOE",
 		"Image": "rbxassetid://16620053009",
-		"Rarity": "Forgotten",
+		"Rarity": "Secret",
 		"PlacePrice": 23456,
 		"Max": 3,
 		"Offset": 0.3,
