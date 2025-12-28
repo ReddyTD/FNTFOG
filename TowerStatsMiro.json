@@ -38,6 +38,39 @@
 		}
 		]
 	},
+	"Ignited Chica": {
+		"Type": "Single",
+		"Image": "rbxassetid://80674146105421",
+		"Rarity": "Epic",
+		"PlacePrice": 1500,
+		"Max": 3,
+		"Offset": 0.3,
+		"hitboxOffset": {
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"Upgrades": [
+		{
+			"Price": 0,
+			"Range": 12,
+			"Damage": 200,
+			"Cooldown": 2
+		},
+		{
+			"Price": 500,
+			"Range": 15,
+			"Damage": 300,
+			"Cooldown": 1.5
+		},
+		{
+			"Price": 1500,
+			"Range": 18,
+			"Damage": 500,
+			"Cooldown": 1
+		},
+		]
+	},
 	"Gift Giver Balloon Boy": {
 		"Type": "Explosion",
 		"Image": "rbxassetid://135110651981096",
