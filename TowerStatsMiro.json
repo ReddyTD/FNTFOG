@@ -38,6 +38,45 @@
 		}
 		]
 	},
+	"Ignited Shadow Bonnie": {
+		"Type": "Full AOE",
+		"Image": "rbxassetid://137355519458489",
+		"Rarity": "Apex",
+		"PlacePrice": 15000,
+		"Max": 1,
+		"Offset": 0.3,
+		"hitboxOffset": {
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"Upgrades": [
+		{
+			"Price": 0,
+			"Range": 20,
+			"Damage": 5000,
+			"Cooldown": 0.5
+		},
+		{
+			"Price": 10000,
+			"Range": 30,
+			"Damage": 5000,
+			"Cooldown": 0.25
+		},
+		{
+			"Price": 20000,
+			"Range": 30,
+			"Damage": 5000,
+			"Cooldown": 0.2
+		},
+		{
+			"Price": 25000,
+			"Range": 35,
+			"Damage": 5000,
+			"Cooldown": 0.05
+		}
+		]
+	},
 	"Gift Giver Balloon Boy": {
 		"Type": "Explosion",
 		"Image": "rbxassetid://135110651981096",
@@ -117,7 +156,7 @@
 	},
 	"Ignited Foxy": {
 		"Type": "Dual",
-		"Image": "rbxassetid://88263475453446",
+		"Image": "rbxassetid://80674146105421",
 		"Rarity": "Epic",
 		"PlacePrice": 1500,
 		"Max": 3,
@@ -312,7 +351,7 @@
 	},
 	"Ignited Springtrap": {
 		"Type": "Pierce + Cone",
-		"Image": "rbxassetid://16620053009",
+		"Image": "rbxassetid://76620400452339",
 		"Rarity": "Apex",
 		"PlacePrice": 23456,
 		"Max": 2,
