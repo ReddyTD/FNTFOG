@@ -38,6 +38,45 @@
 		}
 		]
 	},
+"Radioative Foxy": {
+	"Type": "Melee",
+	"Image": "rbxassetid://16620053009",
+	"Rarity": "Epic",
+	"PlacePrice": 600,
+	"Max": 4,
+	"Offset": 0.3,
+	"hitboxOffset": {
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"Upgrades": [
+	{
+		"Price": 0,
+		"Range": 15,
+		"Damage": 100,
+		"Cooldown": 2
+	},
+	{
+		"Price": 250,
+		"Range": 15,
+		"Damage": 120,
+		"Cooldown": 1.5
+	},
+	{
+		"Price": 750,
+		"Range": 15,
+		"Damage": 150,
+		"Cooldown": 1.5
+	},
+	{
+		"Price": 1000,
+		"Range": 15,
+		"Damage": 200,
+		"Cooldown": 1
+	}
+	]
+},
 	"Ignited Shadow Bonnie": {
 		"Type": "Full AOE",
 		"Image": "rbxassetid://137355519458489",
