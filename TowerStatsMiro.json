@@ -40,7 +40,7 @@
 	},
 	"Demon Bonnie": {
 		"Type": "Single",
-		"Image": "rbxassetid://16620053009",
+		"Image": "rbxassetid://126163386324773",
 		"Rarity": "Secret",
 		"PlacePrice": 2000,
 		"Max": 2,
@@ -79,7 +79,7 @@
 	},
 	"Radioative Foxy": {
 		"Type": "Melee",
-		"Image": "rbxassetid://16620053009",
+		"Image": "rbxassetid://127146265649547",
 		"Rarity": "Epic",
 		"PlacePrice": 600,
 		"Max": 4,
