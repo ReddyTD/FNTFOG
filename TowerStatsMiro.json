@@ -38,45 +38,84 @@
 		}
 		]
 	},
-"Radioative Foxy": {
-	"Type": "Melee",
-	"Image": "rbxassetid://16620053009",
-	"Rarity": "Epic",
-	"PlacePrice": 600,
-	"Max": 4,
-	"Offset": 0.3,
-	"hitboxOffset": {
-		"X": 0,
-		"Y": 0,
-		"Z": 0
+	"Demon Bonnie": {
+		"Type": "Single",
+		"Image": "rbxassetid://16620053009",
+		"Rarity": "Secret",
+		"PlacePrice": 2000,
+		"Max": 2,
+		"Offset": 0.3,
+		"hitboxOffset": {
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"Upgrades": [
+		{
+			"Price": 0,
+			"Range": 12,
+			"Damage": 400,
+			"Cooldown": 1
+		},
+		{
+			"Price": 500,
+			"Range": 15,
+			"Damage": 500,
+			"Cooldown": 1
+		},
+		{
+			"Price": 1000,
+			"Range": 20,
+			"Damage": 1000,
+			"Cooldown": 0.5
+		},
+		{
+			"Price": 1250,
+			"Range": 20,
+			"Damage": 2000,
+			"Cooldown": 0.5
+		}
+		]
 	},
-	"Upgrades": [
-	{
-		"Price": 0,
-		"Range": 15,
-		"Damage": 100,
-		"Cooldown": 2
+	"Radioative Foxy": {
+		"Type": "Melee",
+		"Image": "rbxassetid://16620053009",
+		"Rarity": "Epic",
+		"PlacePrice": 600,
+		"Max": 4,
+		"Offset": 0.3,
+		"hitboxOffset": {
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"Upgrades": [
+		{
+			"Price": 0,
+			"Range": 15,
+			"Damage": 100,
+			"Cooldown": 2
+		},
+		{
+			"Price": 250,
+			"Range": 15,
+			"Damage": 120,
+			"Cooldown": 1.5
+		},
+		{
+			"Price": 750,
+			"Range": 15,
+			"Damage": 150,
+			"Cooldown": 1.5
+		},
+		{
+			"Price": 1000,
+			"Range": 15,
+			"Damage": 200,
+			"Cooldown": 1
+		}
+		]
 	},
-	{
-		"Price": 250,
-		"Range": 15,
-		"Damage": 120,
-		"Cooldown": 1.5
-	},
-	{
-		"Price": 750,
-		"Range": 15,
-		"Damage": 150,
-		"Cooldown": 1.5
-	},
-	{
-		"Price": 1000,
-		"Range": 15,
-		"Damage": 200,
-		"Cooldown": 1
-	}
-	]
-},
 	"Ignited Shadow Bonnie": {
 		"Type": "Full AOE",
 		"Image": "rbxassetid://137355519458489",
