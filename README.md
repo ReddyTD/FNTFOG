@@ -1,5 +1,5 @@
 {
-    "Freddy": {
+    "Minifigure": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Uncommon",
