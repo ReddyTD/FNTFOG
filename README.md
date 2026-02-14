@@ -38,7 +38,7 @@
             }
         ]
     },
-    "Chica": {
+    "Cameraman": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
         "Rarity": "Uncommon",
@@ -76,7 +76,7 @@
             }
         ]
     },
-    "Foxy": {
+    "Speakerman": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
         "Rarity": "Rare",
@@ -115,7 +115,7 @@
             }
         ]
     },
-    "Bonnie": {
+    "Titan Speaker": {
         "Type": "Continuous",
         "Image": "rbxassetid://16620268084",
         "Rarity": "Mythic",
